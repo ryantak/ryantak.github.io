@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Yoo Tak / Site Title"
+title                    : "Yoo Tak / HomePage"
 title_separator          : "-"
 name                     : &name "Yoo Tak"
 description              : &description "personal description"
@@ -24,9 +24,9 @@ author:
   avatar           : "profile.png"
   name             : "Yoo Tak"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Computer Science and Engineering"
   location         : "Earth"
-  employer         : "SKKU University"
+  employer         : "SungkyunKwan University"
   uri              : # URL
   email            : "ryantak04@gmail.com" 
 
