@@ -22,6 +22,10 @@ Education
 * Sejong Science High School, 2020-2022
 * System programming, Program Solving, Opensource Software Practice, etc
 
+Industry - University Cooperation Project
+======
+* Pavetech Welding Inspection AI model, 2023.4 ~ 2023.12(Expected)
+
 Achievements and Certifications
 ------
 TOEIC 880
@@ -29,3 +33,4 @@ TOEIC 880
 Contact
 ------
 ryantak04@gmail.com
+github: ryantak@github.com
