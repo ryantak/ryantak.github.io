@@ -13,6 +13,7 @@ Education
 ======
 * SKKU, South korea B.S., Computer Science and Engineering, 2023-
 * Sejong Science High School, 2020-2022
+* System programming, Program Solving, Opensource Software Practice
 
 
 Industry - University Cooperation Project
