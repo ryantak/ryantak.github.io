@@ -32,5 +32,5 @@ TOEIC 880
 
 Contact
 ------
-ryantak04@gmail.com
+ryantak04@gmail.com \
 github: ryantak@github.com
