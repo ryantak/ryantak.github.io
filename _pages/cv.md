@@ -32,5 +32,4 @@ Achievements and Certifications
   
 Contact
 ======
-ryantak04@gmail.com \
-github: ryantak@github.com
+ryantak04@gmail.com
