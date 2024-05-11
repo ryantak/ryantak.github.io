@@ -24,7 +24,7 @@ Education
 
 Industry - University Cooperation Project
 ======
-* Pavetech Welding Inspection AI model, 2023.4 ~ 2023.12(Expected)
+* Pavetech Welding Inspection AI model, 2024.4 ~ 2024.12(Expected)
 
 Achievements and Certifications
 ------
